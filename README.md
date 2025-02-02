@@ -1,5 +1,5 @@
 # TSSA-Net
-### TSSA-Net: Transposed Sparse Self-Attention-Based Network for Image Super-Resolution
+### TSSA-Net
 # Installation
 -Step 1: Create and activate the Conda environment.
 ```
